@@ -114,6 +114,7 @@ install_asdf java    "temurin-17.0.11+9"
 ##
 ## 4. Global packages
 ##
+source ~/.zprofile
 npm i -g pnpm
 
 pip3 install --upgrade pip poetry langchain openai-cli
