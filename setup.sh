@@ -135,7 +135,7 @@ done
 ## 6. GUI apps
 ##
 CASKS=(
-  visual-studio-code
+  cursor
   iterm2
   docker
   google-chrome
